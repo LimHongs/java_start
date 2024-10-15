@@ -16,7 +16,7 @@ public class RectangleProceduralMain {
 	}
 
 	static int calculateArea(int width, int height) {
-		return width * height;
+		return width * height;	
 	}
 
 	static int calculatePerimeter(int width, int height) {
