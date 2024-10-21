@@ -11,6 +11,7 @@ public class HashMapExample {
         ages.put("Bob", 25);
         ages.put("Charlie", 35);
 
+
         // 값 출력
         System.out.println("Alice의 나이: " + ages.get("Alice"));
 
